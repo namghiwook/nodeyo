@@ -1,6 +1,6 @@
 {
   "name": "helloyo",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -8,7 +8,7 @@
   "description": "helloyo",
   "author": {
     "name": "Ghiwook",
-    "email": ""
+    "email": "namghiwook@gmail.com"
   },
   "dependencies": {
     "express": "~4.9.0",
